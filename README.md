@@ -33,7 +33,7 @@ python backtest.py
 ```
 
 ## Next steps
-
+- Add more candlestick patterns
 - Add a trend filter before each pattern.
 - Test more tickers and save results to CSV automatically.
 - Run it live and use only the patterns with the best track record as signals.
