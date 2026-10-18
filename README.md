@@ -36,6 +36,6 @@ python backtest.py
 
 - Add a trend filter before each pattern.
 - Test more tickers and save results to CSV automatically.
-- Run it live on a small home server and use only the patterns with the best track record as signals.
+- Run it live and use only the patterns with the best track record as signals.
 
 *Educational project, not financial advice.*
